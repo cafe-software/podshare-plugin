@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "podshare": { "url": "https://mcp.podshare.ai/mcp" }
+  }
+}

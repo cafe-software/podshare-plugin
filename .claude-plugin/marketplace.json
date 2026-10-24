@@ -1,0 +1,6 @@
+{
+  "name": "podshare",
+  "description": "Podshare's plugin: build web pages and small apps together with your team in shared pods.",
+  "owner": { "name": "Cafe Software LLC", "url": "https://podshare.ai" },
+  "plugins": [{ "name": "podshare", "source": "./" }]
+}

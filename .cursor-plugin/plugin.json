@@ -1,0 +1,11 @@
+{
+  "name": "podshare",
+  "description": "Build web pages and small apps together with your team in shared pods, each person from the AI app they already use.",
+  "version": "1.0.0",
+  "author": { "name": "Cafe Software LLC", "url": "https://podshare.ai" },
+  "homepage": "https://podshare.ai",
+  "repository": "https://github.com/cafe-software/podshare-plugin",
+  "license": "MIT",
+  "keywords": ["collaboration", "teams", "web pages", "artifacts", "mcp"],
+  "logo": "assets/logo.png"
+}
